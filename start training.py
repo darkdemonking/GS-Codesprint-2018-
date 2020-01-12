@@ -85,4 +85,3 @@ print output
 
 df = pandas.DataFrame(output)
 df.to_csv("prediction.csv", index=None, header=None)
-raw_input()
