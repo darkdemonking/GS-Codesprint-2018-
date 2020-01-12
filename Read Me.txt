@@ -1,0 +1,9 @@
+This program is written in python 2
+Download all the required modules:
+-Pandas
+-Numpy
+-Scipy
+-Scikit-learn
+
+Click on the start traing.py file. Make sure test.csv and train.csv files are in same directory.
+Wait till program is processing the data. The output is generated.
